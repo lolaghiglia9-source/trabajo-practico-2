@@ -1,0 +1,35 @@
+{
+    margin: 10px;
+    padding: 5px;
+}
+
+
+h1, h2 {
+    color: red;
+    text-align: center;
+}
+
+
+h3 {
+    color: darkred;
+    font-weight: 800;
+}
+
+
+p {
+    color: black;
+    font-family: Verdana;
+}
+
+
+section {
+    background-color: yellow;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+
+header, footer {
+    background-color: lightgray;
+    text-align: center;
+}
